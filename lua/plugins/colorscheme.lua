@@ -6,7 +6,7 @@ return {
     on_colors = function(colors)
       -- colors.hint = "#7dcfff"
       -- colors.error = "#ffffff"
-      colors.comment = "#ffffff"
+      -- colors.comment = "#ffffff"
     end,
 
     on_highlights = function(hl, c)
