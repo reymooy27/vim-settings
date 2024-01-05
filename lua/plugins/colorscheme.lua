@@ -20,6 +20,19 @@ return {
       hl.NeoTreeNormalNC = {
         bg = "#171421",
       }
+      hl.IndentBlanklineChar = {
+        fg = "#7b4261",
+      }
+      -- hl.IndentBlanklineContextChar = {
+      --   fg = "#9d7cd8",
+      -- }
     end,
   },
 }
+
+-- return {
+--   "LazyVim/LazyVim",
+--   opts = {
+--     colorscheme = "catppuccin",
+--   },
+-- }

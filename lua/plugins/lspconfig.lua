@@ -11,7 +11,11 @@ return {
         html = {},
         tailwindcss = {},
         prismals = {},
-        emmet_ls = {},
+        emmet_ls = {
+          filetypes = {
+            "javascript",
+          },
+        },
       },
     },
   }, -- configure html server   -- configure html server
