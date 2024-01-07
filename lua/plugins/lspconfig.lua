@@ -11,9 +11,20 @@ return {
         html = {},
         tailwindcss = {},
         prismals = {},
+        cssls = {
+          filetypes = {
+            "html",
+            "css",
+          },
+        },
         emmet_ls = {
           filetypes = {
             "javascript",
+            "javascriptreact",
+            "typescriptreact",
+            "typescript",
+            "javascript.jsx",
+            "typescript.tsx",
           },
         },
       },

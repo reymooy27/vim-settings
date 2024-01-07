@@ -8,5 +8,6 @@ return {
   { "rcarriga/nvim-notify", enabled = false },
   { "stevearc/dressing.nvim", enabled = false },
   { "dressing.nvim", enabled = false },
+  { "folke/which-key.nvim", enabled = false },
   -- { "echasnovski/mini.indentscope", enabled = false },
 }
